@@ -811,7 +811,7 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
-			.button.halda-click-to-pop-form:hover {
+			.button.special:hover {
 				background-color: #76a9d7;
 			}
 
